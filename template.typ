@@ -62,8 +62,8 @@
   logo: none, 
   abstract: none,
   subject: "",
-  degree: "Bachelor of Technology",
-  stream: "Information Technology",
+  degree: "Master of Science",
+  stream: "Cybersecurity",
   guide: (),
   body
   ) = {
