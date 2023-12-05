@@ -80,7 +80,7 @@
       right: 1in
     )
   )
-  set text(font: "New Computer Modern", lang: "en")
+  set text(font: "Times New Roman", lang: "en")
 
   set par(justify: true)
   // Title row.
