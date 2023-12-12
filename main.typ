@@ -20,13 +20,13 @@
     (
       name: "Edoardo Caciorgna",
       department: "Department of Information Engineering",
-      rollno: "XXXXXX",
+      rollno: "578245",
     ),
   ),
   department: "Department of Information Engineering",
   institute: "Università degli studi di Pisa",
   degree: "Master of Science",
-  year: "2022-2023",
+  year: "2023-2024",
   logo: "images/logo-unipi.png",
 )
 
